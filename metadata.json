@@ -1,0 +1,7 @@
+{
+  "name": "Resonate Premium Music SaaS",
+  "description": "A high-end, AI-powered music streaming platform featuring immersive UI, mood-sync technology, and direct creator engagement.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
